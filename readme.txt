@@ -5,3 +5,4 @@ Git tracks changes.
 add somethings.
 Creating a new branch is quick.
 add merge.
+1
