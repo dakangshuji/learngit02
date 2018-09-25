@@ -7,3 +7,4 @@ Creating a new branch is quick.
 add merge.
 1
 2
+3
