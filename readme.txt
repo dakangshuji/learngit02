@@ -15,3 +15,12 @@ add merge.
 8
 9
 10
+.
+asfdasdf
+<<<<<<< HEAD
+asdfasd
+asdfasdfasd
+safsadf
+=======
+asdfasd
+>>>>>>> fix1
