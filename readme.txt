@@ -17,6 +17,10 @@ add merge.
 10
 .
 asfdasdf
+<<<<<<< HEAD
 asdfasd
 asdfasdfasd
 safsadf
+=======
+asdfasd
+>>>>>>> fix1
